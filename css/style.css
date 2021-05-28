@@ -210,7 +210,7 @@ button:focus{
 	height: 100vh;
 }
 .slides-navigation a {
-	background: #cfa671;
+	background: rgba(0, 0, 0, 0.08);
     position: absolute;
     height: 70px;
     width: 70px;
@@ -267,7 +267,7 @@ button:focus{
     color: #fff;
     background-color: transparent;
     background-image: none;
-    border-color: #cfa671;
+    border-color: white;
 }
 .btn-outline-new-white:hover {
     color: #ffffff;
